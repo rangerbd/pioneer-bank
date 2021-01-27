@@ -1,0 +1,27 @@
+body{
+    padding:100px;
+}
+
+.input-area{
+    border-radius: 50px;
+    box-shadow: 5px 5px 10px  grey;
+    padding: 40px;
+    margin-top: 50px;
+}
+
+
+#transection-area{
+    display: none;
+}
+
+.deposit{
+
+}
+
+.withdraw{
+    background-color: lightsalmon;
+}
+
+.balance{
+    background-color: orange;
+}
